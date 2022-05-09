@@ -1,2 +1,2 @@
 # MyKaggles
-My Kaggle submissions
+This repository documents my submissions to Kaggle competitions.
